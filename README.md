@@ -2,7 +2,7 @@
 
 > **To get started:** Clone this repository using
 > 
->     git clone --recursive http://github.com/dilevin/computer-graphics-kinematics.git
+>     git clone --recursive git@github.com:ohnooj/computer-graphics-kinematics.git
 >
 
 ## Background
